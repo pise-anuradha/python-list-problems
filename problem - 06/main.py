@@ -22,11 +22,11 @@ remove_duplicate()
 #num_list = [1,5,6,9,8,7,5,3,6,4,9,8,5,3,4]
 
 def remove_dup():
-  list_1 = []
+  num_list = []
   number = int(input('Enter the number of elements : '))
   for n in range(number):
     element = float(input(f'Enter the {n+1} element : '))
-    list_1.append(element)
-  print(set(list_1))
+    num_list.append(element)
+  print(set(num_list))
 
 remove_dup()
