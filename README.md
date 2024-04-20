@@ -2,16 +2,16 @@
 
 1. Write a Python program to sum all the items in a list.
 
-3. Write a Python program to multiply all the items in a list.
+2. Write a Python program to multiply all the items in a list.
 
-Write a Python program to get the largest number from a list.
+3. Write a Python program to get the largest number from a list.
 
-Write a Python program to get the smallest number from a list.
+4. Write a Python program to get the smallest number from a list.
 
-Write a Python program to count the number of strings where the string length is 2 or more and the first and last character are same from a given list of strings.<br/>
+5. Write a Python program to count the number of strings where the string length is 2 or more and the first and last character are same from a given list of strings.<br/>
 Sample List : ['abc', 'xyz', 'aba', '1221']
 
-Write a Python program to get a list, sorted in increasing order by the last element in each tuple from a given list of non-empty tuples.<br/>
+6. Write a Python program to get a list, sorted in increasing order by the last element in each tuple from a given list of non-empty tuples.<br/>
 Sample List : [(2, 5), (1, 2), (4, 4), (2, 3), (2, 1)]
 
 Write a Python program to remove duplicates from a list.
