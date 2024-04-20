@@ -2,11 +2,11 @@
 
 Write a Python program to multiply all the items in a list.
 
-## Problem Statement
+# Problem Statement
 
 The task is to create a Python program that calculates the product of all the items in a given list. Two solutions are provided: Solution 1 involves multiplying the elements of a pre-defined list, while Solution 2 allows the user to input the elements of the list.
 
-### Solution - 1
+## Solution - 1
 
 ### Approach:
 Iterate through each element of the list and accumulate the product.
@@ -20,7 +20,7 @@ Iterate through each element of the list and accumulate the product.
 ### Solution Explanation:
 This solution directly operates on a predefined list, iterates through each element, and accumulates the product. Similar to Solution 1 for summing elements, it's a straightforward approach suitable for scenarios where the list is known in advance.
 
-### Solution - 2
+## Solution - 2
 
 ### Approach:
 Allow the user to input the number of elements and the elements themselves, then calculate the product.
