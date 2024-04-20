@@ -1,10 +1,5 @@
 # python-list-problems
 
-The action of every agent <br />
-  into the world <br />
-starts <br />
-  from their physical selves. <br />
-
 01. : Write a Python program to sum all the items in a list.
 
 02. : Write a Python program to multiply all the items in a list.
@@ -13,10 +8,10 @@ starts <br />
 
 04. : Write a Python program to get the smallest number from a list.
 
-05. : Write a Python program to count the number of strings where the string length is 2 or more and the first and last character are same from a given list of strings. &nbsp; &nbsp; &nbsp;
+05. : Write a Python program to count the number of strings where the string length is 2 or more and the first and last character are same from a given list of strings.<br/>
 Sample List : ['abc', 'xyz', 'aba', '1221']
 
-06. : Write a Python program to get a list, sorted in increasing order by the last element in each tuple from a given list of non-empty tuples. &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+06. : Write a Python program to get a list, sorted in increasing order by the last element in each tuple from a given list of non-empty tuples.<br/>
 Sample List : [(2, 5), (1, 2), (4, 4), (2, 3), (2, 1)]
 
 8. : Write a Python program to remove duplicates from a list.
