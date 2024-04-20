@@ -11,7 +11,7 @@
 05. : Write a Python program to count the number of strings where the string length is 2 or more and the first and last character are same from a given list of strings. &nbsp; &nbsp; &nbsp;
 Sample List : ['abc', 'xyz', 'aba', '1221']
 
-06. : Write a Python program to get a list, sorted in increasing order by the last element in each tuple from a given list of non-empty tuples. &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+06. : Write a Python program to get a list, sorted in increasing order by the last element in each tuple from a given list of non-empty tuples. &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;
 Sample List : [(2, 5), (1, 2), (4, 4), (2, 3), (2, 1)]</br>
 
 07. : Write a Python program to remove duplicates from a list.
