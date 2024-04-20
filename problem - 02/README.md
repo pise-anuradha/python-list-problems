@@ -8,10 +8,10 @@ The task is to create a Python program that calculates the product of all the it
 
 ### Solution - 1
 
-#### Approach:
+### Approach:
 Iterate through each element of the list and accumulate the product.
 
-#### Steps:
+### Steps:
 1. Initialize a variable `product` to store the product of elements.
 2. Iterate through each element `i` in the list.
 3. Multiply each element `i` with the `product`.
@@ -22,10 +22,10 @@ This solution directly operates on a predefined list, iterates through each elem
 
 ### Solution - 2
 
-#### Approach:
+### Approach:
 Allow the user to input the number of elements and the elements themselves, then calculate the product.
 
-#### Steps:
+### Steps:
 1. Prompt the user to input the number of elements.
 2. Use a loop to input each element and add it to the list.
 3. Calculate the product of all elements by iterating through the list.
