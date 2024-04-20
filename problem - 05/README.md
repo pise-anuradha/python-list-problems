@@ -7,7 +7,6 @@ Write a Python program to count the number of strings where the string length is
 The task is to create a Python program that counts the number of strings in a given list where the string length is 2 or more and the first and last character are the same.
 
 ## Approach
-
 The approach involves iterating through each string in the list and checking if its length is 2 or more and if the first and last characters are the same.
 
 ### Steps
