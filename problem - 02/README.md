@@ -18,7 +18,7 @@ Iterate through each element of the list and accumulate the product.
 4. Print the product of all elements.
 
 ### Solution Explanation:
-This solution directly operates on a predefined list, iterates through each element, and accumulates the product. Similar to Solution 1 for summing elements, it's a straightforward approach suitable for scenarios where the list is known in advance.
+This solution directly operates on a predefined list, iterates through each element, and accumulates the product. It's a straightforward approach suitable for scenarios where the list is known in advance.
 
 ## Solution - 2
 
