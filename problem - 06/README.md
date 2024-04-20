@@ -8,7 +8,7 @@ The task is to create a Python program that sorts a list of non-empty tuples in 
 
 # Solution - 1
 
-## Approach
+### Approach
 
 The approach involves using the `sort()` method with a custom key function to sort the list based on the last element of each tuple.
 
@@ -24,7 +24,7 @@ This solution sorts the sample list of tuples in increasing order by the last el
 
 # Solution - 2
 
-## Approach
+### Approach
 
 The approach involves defining a custom key function and using the `sorted()` function to sort the list based on the last element of each tuple.
 
