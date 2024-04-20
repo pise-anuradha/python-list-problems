@@ -1,7 +1,5 @@
 # python-list-problems
 
-[Named Link](http://www.google.fr/ "Named link title")
-
 1. [Write a Python program to sum all the items in a list.](https://github.com/pise-anuradha/python-list-problems/tree/main/problem%20-%20%2001)
 
 2. Write a Python program to multiply all the items in a list.
