@@ -27,11 +27,11 @@ Allow the user to input the number of elements and the elements themselves, then
 ### Steps:
 1. Prompt the user to input the number of elements.
 2. Use a loop to input each element and add it to the list.
-3. Use the min() function to find the smallest number in the list.
+3. Use the `min()` function to find the smallest number in the list.
 4. Print the smallest number.
 
 ### Solution Explanation:
-In this solution, the program interacts with the user to input the elements of the list dynamically. It then finds the smallest number using the min() function. This approach is useful when the list elements are not known beforehand and need to be provided by the user.
+In this solution, the program interacts with the user to input the elements of the list dynamically. It then finds the smallest number using the `min()` function. This approach is useful when the list elements are not known beforehand and need to be provided by the user.
 
 # Solution - 3
 
