@@ -1,8 +1,8 @@
 # python-list-problems
 
-problem - 01 : Write a Python program to sum all the items in a list.
+01. : Write a Python program to sum all the items in a list.
 
-problem - 02 : Write a Python program to multiply all the items in a list.
+02. : Write a Python program to multiply all the items in a list.
 
 problem - 03 : Write a Python program to get the largest number from a list.
 
