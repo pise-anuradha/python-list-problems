@@ -16,6 +16,9 @@ problem - 06 : Write a Python program to get a list, sorted in increasing order 
 element in each tuple from a given list of non-empty tuples.
 Sample List : [(2, 5), (1, 2), (4, 4), (2, 3), (2, 1)]
 
+> [!NOTE]
+> Useful information that users should know, even when skimming content.
+
 problem - 07 : Write a Python program to remove duplicates from a list.
 
 problem - 08 : Write a Python program to check a list is empty or not.
