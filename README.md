@@ -8,8 +8,8 @@ problem - 03 : Write a Python program to get the largest number from a list.
 
 problem - 04 : Write a Python program to get the smallest number from a list.
 
-problem - 05 : Write a Python program to count the number of strings where the string length
-&nbsp;               is 2 or more and the first and last character are same from a given list of                    strings.
+problem - 05 : Write a Python program to count the number of strings where the string 
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;length is 2 or more and the first and last character are same from a given list of                    strings.
                Sample List : ['abc', 'xyz', 'aba', '1221']
 
 <br>problem - 06 : Write a Python program to get a list, sorted in increasing order by the last
