@@ -1,3 +1,7 @@
+# Problem - 01
+
+Write a Python program to sum all the items in a list.
+
 # Problem Statement
 
 The task is to create a Python program to sum all the items in a given list. Two solutions are provided: Solution 1 involves summing the elements of a pre-defined list, while Solution 2 allows the user to input the elements of the list.
