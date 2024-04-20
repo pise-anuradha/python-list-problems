@@ -1,6 +1,6 @@
 # python-list-problems
 
-Markup :  [Named Link](http://www.google.fr/ "Named link title") and http://www.google.fr/ or <http://example.com/>
+[Named Link](http://www.google.fr/ "Named link title")
 
 1. Write a Python program to sum all the items in a list.
 
