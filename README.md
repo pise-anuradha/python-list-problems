@@ -3,16 +3,23 @@
 problem - 01 : Write a Python program to sum all the items in a list.
 
 problem - 02 : Write a Python program to multiply all the items in a list.
+
 problem - 03 : Write a Python program to get the largest number from a list.
+
 problem - 04 : Write a Python program to get the smallest number from a list.
+
 problem - 05 : Write a Python program to count the number of strings where the string length
 is 2 or more and the first and last character are same from a given list of strings.
 Sample List : ['abc', 'xyz', 'aba', '1221']
+
 problem - 06 : Write a Python program to get a list, sorted in increasing order by the last
 element in each tuple from a given list of non-empty tuples.
 Sample List : [(2, 5), (1, 2), (4, 4), (2, 3), (2, 1)]
+
 problem - 07 : Write a Python program to remove duplicates from a list.
+
 problem - 08 : Write a Python program to check a list is empty or not.
+
 problem - 09 : Write a Python program to clone or copy a list.
 problem - 10 : Write a Python program to find the list of words that are longer than n from a
 given list of words.
