@@ -1,5 +1,10 @@
 # python-list-problems
 
+The action of every agent <br />
+  into the world <br />
+starts <br />
+  from their physical selves. <br />
+
 01. : Write a Python program to sum all the items in a list.
 
 02. : Write a Python program to multiply all the items in a list.
