@@ -42,5 +42,3 @@ even numbers from it.
 17. 
 
 18. 
-
-19.
