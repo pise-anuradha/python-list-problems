@@ -38,3 +38,5 @@ Sample List : ['Red', 'Green', 'White', 'Black', 'Pink', 'Yellow']
 even numbers from it.
 
 16. Write a Python program to shuffle and print a specified list.
+
+17. 
