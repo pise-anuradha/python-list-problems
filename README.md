@@ -16,12 +16,12 @@ Sample List : [(2, 5), (1, 2), (4, 4), (2, 3), (2, 1)]
 
 7. [Write a Python program to remove duplicates from a list.](https://github.com/pise-anuradha/python-list-problems/tree/main/problem%20-%2007)
 
-8. Write a Python program to check a list is empty or not.
+8. [Write a Python program to check a list is empty or not.](https://github.com/pise-anuradha/python-list-problems/tree/main/problem%20-%2008)
 
-9. Write a Python program to clone or copy a list.
+9. [Write a Python program to clone or copy a list.](https://github.com/pise-anuradha/python-list-problems/tree/main/problem%20-%2009)
     
-1. Write a Python program to find the list of words that are longer than n from a
-given list of words.
+10. [Write a Python program to find the list of words that are longer than n from a
+given list of words.](https://github.com/pise-anuradha/python-list-problems/tree/main/problem%20-%2010)
 
 11. Write a Python function that takes two lists and returns True if they have at
 least one common member.
