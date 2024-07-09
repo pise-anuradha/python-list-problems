@@ -11,7 +11,7 @@
 5. [Write a Python program to count the number of strings where the string length is 2 or more and the first and last character are same from a given list of strings.<br/>](https://github.com/pise-anuradha/python-list-problems/tree/main/problem%20-%2005)
 Sample List : ['abc', 'xyz', 'aba', '1221']
 
-6. Write a Python program to get a list, sorted in increasing order by the last element in each tuple from a given list of non-empty tuples.<br/>
+6. [Write a Python program to get a list, sorted in increasing order by the last element in each tuple from a given list of non-empty tuples.<br/>](https://github.com/pise-anuradha/python-list-problems/tree/main/problem%20-%2006)
 Sample List : [(2, 5), (1, 2), (4, 4), (2, 3), (2, 1)]
 
 7. Write a Python program to remove duplicates from a list.
